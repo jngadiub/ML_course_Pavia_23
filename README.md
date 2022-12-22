@@ -1,2 +1,2 @@
-# ML_course_Padova_23
+# ML_course_Pavia_23
 Machine learning course at University of Padova

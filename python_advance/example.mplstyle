@@ -2,8 +2,7 @@ figure.figsize : 6,4
 
 # Line Colors
 # These are based on cbrewer with some modifications
-axes.prop_cycle    : cycler('color',['5c92be','e94749','70bf6e','ff9832',\
-                                     'ac71b5','b77752','f89acb','adadad','d7c78f'])
+axes.prop_cycle    : cycler('color',['5c92be','e94749','70bf6e','ff9832','ac71b5','b77752','f89acb','adadad','d7c78f'])
 # Map colors
 image.cmap   : Spectral_r
 

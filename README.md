@@ -1,1 +1,1 @@
-# Machine learning course at University of Pavia (Prerequisites)
+# Machine learning course at University of Pavia

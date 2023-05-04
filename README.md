@@ -61,15 +61,15 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 
 ### Day 3
 
-* Lecture: RNN and GNNs [slides: ]
+* Lecture: RNN and GNNs [slides: [4.RNNandGNN.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/4.RNNandGNN.pdf)]
     * Vanilla RNN, LSTMs and GRUs
     * Message Passing framework for graph data
     * Graph Convolutional Neural Networks
 
 * Hands-on: RNN and GNN implementations for different tasks
-    * GRU for LHC jet tagging task
+    * GRU for LHC jet tagging task: [`5.JetTaggingRNN.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/5.JetTaggingRNN.ipynb)
     * Intro to PyTorch: [`pytorch_intro.ipynb`] (https://github.com/jngadiub/ML_course_Pavia_23/blob/main/pytorch_basics/pytorch_intro.ipynb) and [`pytorch_NeuralNetworks.ipynb`] (https://github.com/jngadiub/ML_course_Pavia_23/blob/main/pytorch_basics/pytorch_NeuralNetworks.ipynb)
-    * Intro to PyTorch Geometric (PyG): [`5.IntroToPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/5.IntroToPyG.ipynb)
-    * Node classification with PyG on KarateClub dataset: [`6.KCNodeClassificationPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/6.KCNodeClassificationPyG.ipynb)
-    * Graph classification with PyG on molecular prediction dataset: [`7.TUGraphClassification.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/7.TUGraphClassification.ipynb)
-    * Graph classification with PyG on LHC jet dataset: [`8.JetTaggingGCN.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/8.JetTaggingGCN.ipynb)
+    * Intro to PyTorch Geometric (PyG): [`6.IntroToPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/6.IntroToPyG.ipynb)
+    * Node classification with PyG on KarateClub dataset: [`7.KCNodeClassificationPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/7.KCNodeClassificationPyG.ipynb)
+    * Graph classification with PyG on molecular prediction dataset: [`8.TUGraphClassification.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/8.TUGraphClassification.ipynb)
+    * Graph classification with PyG on LHC jet dataset: [`9.JetTaggingGCN.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/9.JetTaggingGCN.ipynb)

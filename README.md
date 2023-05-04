@@ -73,3 +73,14 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
     * Node classification with PyG on KarateClub dataset: [`7.KCNodeClassificationPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/7.KCNodeClassificationPyG.ipynb)
     * Graph classification with PyG on molecular prediction dataset: [`8.TUGraphClassification.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/8.TUGraphClassification.ipynb)
     * Graph classification with PyG on LHC jet dataset: [`9.JetTaggingGCN.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/9.JetTaggingGCN.ipynb)
+
+ ### Day 4
+
+ * Lecture: Attention Mechanism and Transformers [slides: []`5.AttentionAndTransformers.pdf`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/5.AttentionAndTransformers.pdf)]
+    * Attension mechanism
+    * Graph attention networks
+    * Multi-head attention
+    * Transformers
+
+ * Hands-on:
+    * Transformer model for LHC jet tagging with tensorflow: [`10.JetTaggingTransformer.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/10.JetTaggingTransformer.ipynb)

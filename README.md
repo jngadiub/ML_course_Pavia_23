@@ -76,7 +76,7 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 
  ### Day 4
 
- * Lecture: Attention Mechanism and Transformers [slides: []`5.AttentionAndTransformers.pdf`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/5.AttentionAndTransformers.pdf)]
+ * Lecture: Attention Mechanism and Transformers [slides: [`5.AttentionAndTransformers.pdf`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/5.AttentionAndTransformers.pdf)]
     * Attension mechanism
     * Graph attention networks
     * Multi-head attention

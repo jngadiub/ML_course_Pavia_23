@@ -53,8 +53,8 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
     * Batch Normalization
 
 * Hands-on: basic NN with Keras for LHC jet tagging task
-    * Introduction to dataset and tasks
-    * Dataset exploration
-    * MLP implementation with Keras
-    * Conv2D implementation with Keras
-    * Conv1D implementation with Keras
+    * Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
+    * Dataset exploration [`1.LHCJetDatasetExploration.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/1.LHCJetDatasetExploration.ipynb)
+    * MLP implementation with Keras [`2.JetTaggingMLP.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/2.JetTaggingMLP.ipynb)
+    * Conv2D implementation with Keras [`3.JetTaggingConv2D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/3.JetTaggingConv2D.ipynb)
+    * Conv1D implementation with Keras [`4.JetTaggingConv1D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/4.JetTaggingConv1D.ipynb)

@@ -38,9 +38,9 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
     * Performance metrics
 
 * Hands-on: advanced python
-    * Intro to Numpy [`numpy_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/numpy_intro.ipynb)
-    * Intro to Pandas [`pandas_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/pandas_intro.ipynb)
-    * Intro to Matplotlib [`matplotlib_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/matplotlib_intro.ipynb)
+    * Intro to Numpy: [`numpy_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/numpy_intro.ipynb)
+    * Intro to Pandas: [`pandas_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/pandas_intro.ipynb)
+    * Intro to Matplotlib: [`matplotlib_intro.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/python_advance/matplotlib_intro.ipynb)
 
 ### Day 2
 
@@ -54,7 +54,22 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 
 * Hands-on: basic NN with Keras for LHC jet tagging task
     * Introduction to dataset and tasks [slides: [3.LHCJetTaggingIntro.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/3.LHCJetTaggingIntro.pdf)]
-    * Dataset exploration [`1.LHCJetDatasetExploration.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/1.LHCJetDatasetExploration.ipynb)
-    * MLP implementation with Keras [`2.JetTaggingMLP.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/2.JetTaggingMLP.ipynb)
-    * Conv2D implementation with Keras [`3.JetTaggingConv2D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/3.JetTaggingConv2D.ipynb)
-    * Conv1D implementation with Keras [`4.JetTaggingConv1D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/4.JetTaggingConv1D.ipynb)
+    * Dataset exploration: [`1.LHCJetDatasetExploration.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/1.LHCJetDatasetExploration.ipynb)
+    * MLP implementation with Keras: [`2.JetTaggingMLP.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/2.JetTaggingMLP.ipynb)
+    * Conv2D implementation with Keras: [`3.JetTaggingConv2D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/3.JetTaggingConv2D.ipynb)
+    * Conv1D implementation with Keras: [`4.JetTaggingConv1D.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/4.JetTaggingConv1D.ipynb)
+
+### Day 3
+
+* Lecture: RNN and GNNs [slides: ]
+    * Vanilla RNN, LSTMs and GRUs
+    * Message Passing framework for graph data
+    * Graph Convolutional Neural Networks
+
+* Hands-on: RNN and GNN implementations for different tasks
+    * GRU for LHC jet tagging task
+    * Intro to PyTorch: [`pytorch_intro.ipynb`] (https://github.com/jngadiub/ML_course_Pavia_23/blob/main/pytorch_basics/pytorch_intro.ipynb) and [`pytorch_NeuralNetworks.ipynb`] (https://github.com/jngadiub/ML_course_Pavia_23/blob/main/pytorch_basics/pytorch_NeuralNetworks.ipynb)
+    * Intro to PyTorch Geometric (PyG): [`5.IntroToPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/5.IntroToPyG.ipynb)
+    * Node classification with PyG on KarateClub dataset: [`6.KCNodeClassificationPyG.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/6.KCNodeClassificationPyG.ipynb)
+    * Graph classification with PyG on molecular prediction dataset: [`7.TUGraphClassification.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/7.TUGraphClassification.ipynb)
+    * Graph classification with PyG on LHC jet dataset: [`8.JetTaggingGCN.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/8.JetTaggingGCN.ipynb)

@@ -84,3 +84,19 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 
  * Hands-on:
     * Transformer model for LHC jet tagging with tensorflow: [`10.JetTaggingTransformer.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/10.JetTaggingTransformer.ipynb)
+
+ ### Day 5
+
+ * Lecture: Unsupervised Learning [slides: [6.UnsupervisedLearning.pdf](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/slides/6.UnsupervisedLearning.pdf)]
+    * Unsupervised learning
+    * Autoencoders
+    * Generative Models
+    * VariationalAutoencoders
+    * Generative Adversarial Networks
+    * Anomaly detection
+
+ * Hands-on:
+    * Generate data with vanilla GAN: [`11.VanillaGAN_FMNIST.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/11.VanillaGAN_FMNIST.ipynb)
+    * Generate data with VAE: [`12.VAE_FMNIST.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/12.VAE_FMNIST.ipynb)
+    * Anomaly detection for LHC jets with AE [`13.JetAnomalyDetectionAE.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/13.JetAnomalyDetectionAE.ipynb)
+    * Anomaly detection for LHC jets with VAE [`14.JetAnomalyDetectionVAE.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/13.JetAnomalyDetectionVAE.ipynb)    

@@ -104,6 +104,6 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
 ## Resources
 
 * Pattern Recognition and Machine Learning, Bishop (2006)
-* Deep Learning, Goodfellow et al. (2016) -- [`link`] (https://www.deeplearningbook.org/)
+* Deep Learning, Goodfellow et al. (2016) -- [`link`](https://www.deeplearningbook.org/)
 * Introduction to machine learning, Murray (2010) -- [`video lectures`](http://videolectures.net/bootcamp2010_murray_iml/)
 * Stanford ML courses -- [`link`](https://ai.stanford.edu/stanford-ai-courses/)

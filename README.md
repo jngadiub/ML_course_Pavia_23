@@ -99,4 +99,11 @@ Prerequisites for the course include basic knowledge of GitHub, Colab and python
     * Generate data with vanilla GAN: [`11.VanillaGAN_FMNIST.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/11.VanillaGAN_FMNIST.ipynb)
     * Generate data with VAE: [`12.VAE_FMNIST.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/12.VAE_FMNIST.ipynb)
     * Anomaly detection for LHC jets with AE [`13.JetAnomalyDetectionAE.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/13.JetAnomalyDetectionAE.ipynb)
-    * Anomaly detection for LHC jets with VAE [`14.JetAnomalyDetectionVAE.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/13.JetAnomalyDetectionVAE.ipynb)    
+    * Anomaly detection for LHC jets with VAE [`14.JetAnomalyDetectionVAE.ipynb`](https://github.com/jngadiub/ML_course_Pavia_23/blob/main/neural-networks/13.JetAnomalyDetectionVAE.ipynb)
+
+## Resources
+
+* Pattern Recognition and Machine Learning, Bishop (2006)
+* Deep Learning, Goodfellow et al. (2016) -- [`link`] (https://www.deeplearningbook.org/)
+* Introduction to machine learning, Murray (2010) -- [`video lectures`](http://videolectures.net/bootcamp2010_murray_iml/)
+* Stanford ML courses -- [`link`](https://ai.stanford.edu/stanford-ai-courses/)
